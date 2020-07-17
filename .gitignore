@@ -3,6 +3,6 @@ build
 .vagrant
 Packages
 *.pkg
-SwiftJWT.xcodeproj
 *.DS_Store
+xcuserdata
 Package.resolved
